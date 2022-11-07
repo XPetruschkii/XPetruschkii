@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XPetruschkii
 - 👀 Nowdays I really don't know what I should do
-- 🌱 I’m currently learning how to learn machines sth.
+- 🌱 I’m currently learning how to learn programming sth.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free petruschkii@gmail.com
 
